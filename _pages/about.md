@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>6.136</p>
+    <p>Fakultät für Mathematik</p>
     <p>Oskar-Morgenstern-Platz 1, 1090</p>
     <p>Wien, Austria</p>
     <p>vinicius.novelli.da.silva[at]univie[dot]ac[dot]at</p>
