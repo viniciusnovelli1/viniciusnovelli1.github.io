@@ -7,14 +7,12 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+## Lecture notes
 
-<!-- Bibsearch Feature -->
+- [Operadores integrais relacionados ao problema dbar](/assets/pdfs/trabalho_bochner.pdf)
+- [Notas em probabilidade básica](/assets/pdfs/prob.pdf)
 
-{% include bib_search.liquid %}
+## Miscellaneous
 
-<div class="notes">
+- [Problemas sobre grupos de Lie](/assets/pdfs/listas_grupos_de_lie.pdf)
 
-{% bibliography %}
-
-</div>
