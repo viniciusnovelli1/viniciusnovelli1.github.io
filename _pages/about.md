@@ -30,4 +30,3 @@ latest_posts:
 
 I am a postdoctoral researcher at the Fakultät für Mathematik, Universität Wien, working in the Complex Analysis group. I hold a Ph.D. in Mathematics from the University of São Paulo (IME-USP). My current work focuses on questions in CR geometry, analytic microlocal analysis, and related problems in geometric analysis.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
